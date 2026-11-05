@@ -20,7 +20,7 @@ function PreviewCard() {
         <p className="text-4xl font-bold">₱6,760</p>
         <div className="flex flex-wrap gap-2.5">
           <span className="rounded-[10px] bg-primary px-5 py-[11px] text-sm font-semibold text-white">
-            Pay with GCash/Maya
+            Online Payment
           </span>
           <span className="rounded-[10px] border border-slate-300 bg-white px-5 py-[11px] text-sm font-semibold">
             Pay with cash

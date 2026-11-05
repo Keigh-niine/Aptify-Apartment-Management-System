@@ -4,8 +4,6 @@ import Button from "@/components/Button";
 const links = [
   ["Features", "#features"],
   ["How it works", "#how-it-works"],
-  ["For landlords", "#how-it-works"],
-  ["For tenants", "#how-it-works"],
 ];
 
 export default function Nav() {
